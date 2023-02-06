@@ -1,0 +1,507 @@
+..................T�RK�YE VE YAKIN �EVRES�NDEK� SON DEPREMLER....................
+.....B�LGESEL DEPREM-TSUNAM� �ZLEME VE DE�ERLEND�RME MERKEZ� HIZLI ��Z�MLER�.....
+......(YAPAY SARSINTI ANAL�Z� YAPILMAMI�TIR) Son 500 deprem listelenmi�tir......
+                                                        B�y�kl�k
+Tarih      Saat      Enlem(N)  Boylam(E) Derinlik(km)  MD   ML   Mw    Yer                                             ��z�m Niteli�i
+---------- --------  --------  -------   ----------    ------------    --------------                                  --------------
+2023.02.06 16:39:24  38.1595   37.5413        8.2      -.-  5.3  -.-   KANTARMA-ELBISTAN (KAHRAMANMARAS)                 �lksel
+2023.02.06 16:17:43  38.0483   36.5193        5.0      -.-  4.9  -.-   HACIMIRZA-GOKSUN (KAHRAMANMARAS)                  �lksel
+2023.02.06 16:16:28  38.0040   36.7548       13.6      -.-  3.7  -.-   KINIKKOZ-GOKSUN (KAHRAMANMARAS)                   �lksel
+2023.02.06 16:06:37  38.0730   37.4315       13.6      -.-  4.3  -.-   AGCASAR-NURHAK (KAHRAMANMARAS)                    �lksel
+2023.02.06 16:03:16  38.0642   37.3865        5.0      -.-  4.2  -.-   AGCASAR-NURHAK (KAHRAMANMARAS)                    �lksel
+2023.02.06 16:02:25  37.6492   37.3497        9.3      -.-  3.6  -.-   BOLUKDAMLAR-CAGLAYANCERIT (KAHRAMANMARAS)         REVIZE01   (2023.02.06 16:02:25)
+2023.02.06 16:00:13  38.1665   37.0397        8.2      -.-  4.5  -.-   ORTAKLI-AFSIN (KAHRAMANMARAS)                     �lksel
+2023.02.06 15:47:59  38.1552   37.0305        5.0      -.-  4.4  -.-   ORTAKLI-AFSIN (KAHRAMANMARAS)                     �lksel
+2023.02.06 15:39:16  38.2888   38.2163        5.0      -.-  4.0  -.-   IKIZCE-YESILYURT (MALATYA)                        �lksel
+2023.02.06 15:36:44  38.0367   36.5625        2.1      -.-  4.6  -.-   YANTEPE-GOKSUN (KAHRAMANMARAS)                    �lksel
+2023.02.06 15:36:33  37.8063   37.7952       21.1      -.-  4.8  -.-   AKCABEL-GOLBASI (ADIYAMAN)                        �lksel
+2023.02.06 15:34:42  38.2663   38.2253        4.2      -.-  4.8  -.-   GUNDUZBEY-YESILYURT (MALATYA)                     �lksel
+2023.02.06 15:30:31  38.1170   36.7867        5.6      -.-  3.9  -.-   KORKMAZ-GOKSUN (KAHRAMANMARAS)                    �lksel
+2023.02.06 15:27:46  37.1333   36.9713        7.8      -.-  3.9  -.-   IKIZKUYU-NURDAGI (GAZIANTEP)                      �lksel
+2023.02.06 15:21:18  38.0947   36.4038        5.0      -.-  4.3  -.-   SOGUKPINAR-GOKSUN (KAHRAMANMARAS)                 �lksel
+2023.02.06 15:19:11  37.9183   37.4562       15.9      -.-  4.0  -.-   BICIN-NURHAK (KAHRAMANMARAS)                      �lksel
+2023.02.06 15:13:47  37.9892   37.4735        8.1      -.-  4.9  -.-   NURHAK (KAHRAMANMARAS)                            �lksel
+2023.02.06 15:07:33  38.0400   36.3845        4.5      -.-  4.3  4.3   SOGUKPINAR-GOKSUN (KAHRAMANMARAS)                 �lksel
+2023.02.06 15:02:11  38.0697   36.4702        5.0      -.-  5.9  5.8   MEHMETBEY-GOKSUN (KAHRAMANMARAS)                  �lksel
+2023.02.06 14:58:36  38.0793   37.7053        6.1      -.-  4.9  -.-   BEGRE-DOGANSEHIR (MALATYA)                        �lksel
+2023.02.06 14:55:57  38.0302   36.5997        6.6      -.-  4.3  4.3   SARAYCIK-GOKSUN (KAHRAMANMARAS)                   �lksel
+2023.02.06 14:51:19  38.1900   37.8257        5.0      -.-  4.3  -.-   POLAT-DOGANSEHIR (MALATYA)                        �lksel
+2023.02.06 14:50:04  38.0483   36.3610        7.3      -.-  4.5  -.-   SOGUKPINAR-GOKSUN (KAHRAMANMARAS)                 �lksel
+2023.02.06 14:46:19  37.2113   28.9660       10.2      -.-  2.8  -.-   UZUNOLUK-BEYAGAC (DENIZLI)                        �lksel
+2023.02.06 14:44:07  38.3000   38.1485        1.4      -.-  4.5  -.-   DURULDU-(MALATYA)                                 �lksel
+2023.02.06 14:43:22  38.0588   37.0498       10.5      -.-  3.8  -.-   KANDILKOY-EKINOZU (KAHRAMANMARAS)                 �lksel
+2023.02.06 14:39:41  38.1025   36.4763        5.0      -.-  4.6  -.-   MAHMUTBEY-GOKSUN (KAHRAMANMARAS)                  �lksel
+2023.02.06 14:35:27  38.0275   37.4738        5.2      -.-  4.5  -.-   TATLAR-NURHAK (KAHRAMANMARAS)                     �lksel
+2023.02.06 14:34:18  38.1448   37.6645        9.1      -.-  4.1  -.-   TAPKIRAN-ELBISTAN (KAHRAMANMARAS)                 �lksel
+2023.02.06 14:23:40  38.0058   37.0430        8.6      -.-  3.9  -.-   KURTUL-EKINOZU (KAHRAMANMARAS)                    �lksel
+2023.02.06 14:20:23  38.1508   37.8658       12.1      -.-  3.9  -.-   POLAT-DOGANSEHIR (MALATYA)                        �lksel
+2023.02.06 14:16:39  38.0603   36.5322       14.1      -.-  4.2  -.-   ORTATEPE-GOKSUN (KAHRAMANMARAS)                   �lksel
+2023.02.06 14:11:39  38.0815   37.2990        1.4      -.-  4.8  -.-   OZCANLI-ELBISTAN (KAHRAMANMARAS)                  �lksel
+2023.02.06 14:05:37  38.1308   36.4318        5.4      -.-  4.8  -.-   MURSEL-GOKSUN (KAHRAMANMARAS)                     �lksel
+2023.02.06 13:56:26  38.0542   37.4667       20.4      -.-  4.4  -.-   TATLAR-NURHAK (KAHRAMANMARAS)                     �lksel
+2023.02.06 13:55:04  38.2883   38.3595        6.4      -.-  3.9  -.-   KARAGOZ-(MALATYA)                                 �lksel
+2023.02.06 13:51:31  38.2988   38.1322        7.5      -.-  5.8  -.-   DURULDU-(MALATYA)                                 �lksel
+2023.02.06 13:35:58  38.1835   37.7738        9.1      -.-  6.0  -.-   CAVUSLU-DOGANSEHIR (MALATYA)                      �lksel
+2023.02.06 13:24:46  38.0717   37.2063        5.0      -.-  7.5  -.-   EKINOZU (KAHRAMANMARAS)                           REVIZE01   (2023.02.06 13:24:49)
+2023.02.06 13:12:15  38.1240   38.3465        5.3      -.-  4.2  -.-   SALKONAK-YESILYURT (MALATYA)                      �lksel
+2023.02.06 13:09:13  37.3233   36.9377        9.0      -.-  3.7  -.-   HACIBEBEK-TURKOGLU (KAHRAMANMARAS)                �lksel
+2023.02.06 13:07:35  38.1258   38.2478        5.4      -.-  3.9  4.2   CAMPINAR-CELIKHAN (ADIYAMAN)                      �lksel
+2023.02.06 12:57:18  37.1315   36.9428        5.3      -.-  3.6  3.4   IKIZKUYU-NURDAGI (GAZIANTEP)                      �lksel
+2023.02.06 12:54:20  37.8280   37.5482        5.5      -.-  3.7  3.8   SAVRAN-GOLBASI (ADIYAMAN)                         �lksel
+2023.02.06 12:53:05  40.8250   30.9442       19.3      -.-  2.0  -.-   YONGALIK-GUMUSOVA (DUZCE)                         REVIZE01   (2023.02.06 12:53:05)
+2023.02.06 12:48:41  38.8297   39.4927        5.0      -.-  4.3  4.2   KONURAT-PERTEK (TUNCELI)                          �lksel
+2023.02.06 12:43:51  38.3275   38.7747        8.9      -.-  3.9  4.0   CANAKCI-KALE (MALATYA)                            �lksel
+2023.02.06 12:36:15  37.2783   36.7473        5.0      -.-  4.7  4.4   SEKEROBA-TURKOGLU (KAHRAMANMARAS)                 �lksel
+2023.02.06 12:32:11  38.3657   35.5207       10.3      -.-  3.2  -.-   AYVAZHACI-DEVELI (KAYSERI)                        �lksel
+2023.02.06 12:30:56  38.6803   35.3107        2.2      -.-  3.0  3.1   KARPUZSEKISI-HACILAR (KAYSERI)                    �lksel
+2023.02.06 12:23:45  36.9360   36.4072       12.7      -.-  4.9  4.5   KULLU-(OSMANIYE)                                  �lksel
+2023.02.06 12:21:01  38.1723   38.2457        4.3      -.-  4.4  4.4   ATALAR-YESILYURT (MALATYA)                        �lksel
+2023.02.06 12:05:50  37.4897   37.0945       12.0      -.-  3.5  -.-   CIGLI-(KAHRAMANMARAS)                             �lksel
+2023.02.06 12:05:17  37.2672   36.8763        6.4      -.-  3.6  -.-   MINEHUYUK-TURKOGLU (KAHRAMANMARAS)                �lksel
+2023.02.06 12:03:28  37.1343   36.7163        9.6      -.-  3.2  -.-   KARABURCLU-NURDAGI (GAZIANTEP)                    �lksel
+2023.02.06 12:01:35  36.6303   36.4043        8.0      -.-  3.9  -.-   SAYLAK-KIRIKHAN (HATAY)                           �lksel
+2023.02.06 11:58:34  38.1123   38.3718        7.9      -.-  4.5  -.-   TASDAMLAR-CELIKHAN (ADIYAMAN)                     �lksel
+2023.02.06 11:52:36  37.4928   37.1302        5.0      -.-  4.7  -.-   KARTAL-(KAHRAMANMARAS)                            �lksel
+2023.02.06 11:45:33  37.3600   37.0698       10.3      -.-  3.7  -.-   ARSLANBEY-PAZARCIK (KAHRAMANMARAS)                �lksel
+2023.02.06 11:41:57  37.0495   37.0100        5.0      -.-  3.4  3.5   ORTAKLAR-SAHINBEY (GAZIANTEP)                     �lksel
+2023.02.06 11:40:19  38.0682   38.1455        5.4      -.-  3.7  4.1   PINARBASI-CELIKHAN (ADIYAMAN)                     �lksel
+2023.02.06 11:35:55  36.6202   36.5175       21.4      -.-  2.9  2.7   CAMUZKISLASI-KIRIKHAN (HATAY)                     �lksel
+2023.02.06 11:33:58  37.3350   36.8778        5.4      -.-  3.1  -.-   HACIBEBEK-TURKOGLU (KAHRAMANMARAS)                �lksel
+2023.02.06 11:32:00  40.8002   30.8658       14.6      -.-  2.9  -.-   YESILYAYLA-GUMUSOVA (DUZCE)                       �lksel
+2023.02.06 11:25:49  37.2038   36.9370        5.3      -.-  3.7  -.-   SAKCAGOZE-NURDAGI (GAZIANTEP)                     �lksel
+2023.02.06 11:24:52  40.8043   31.0935       15.9      -.-  2.2  -.-   HOCAOGLU-(DUZCE)                                  �lksel
+2023.02.06 11:22:55  37.3668   37.1885       16.4      -.-  2.7  -.-   AKCAKOYUNLU-PAZARCIK (KAHRAMANMARAS)              �lksel
+2023.02.06 11:12:50  37.2453   37.0343       22.3      -.-  3.1  -.-   KARAHUYUK-PAZARCIK (KAHRAMANMARAS)                �lksel
+2023.02.06 11:11:09  37.2915   36.9255        9.9      -.-  2.3  -.-   EMIRLER-NURDAGI (GAZIANTEP)                       �lksel
+2023.02.06 11:08:39  37.2553   36.9637        5.4      -.-  3.5  -.-   INCIRLI-NURDAGI (GAZIANTEP)                       �lksel
+2023.02.06 11:06:33  37.4627   37.0797       16.7      -.-  2.7  -.-   CINARLI-PAZARCIK (KAHRAMANMARAS)                  �lksel
+2023.02.06 11:04:34  37.5377   37.3382        5.7      -.-  3.1  -.-   SAHINTEPE-PAZARCIK (KAHRAMANMARAS)                REVIZE01   (2023.02.06 11:04:35)
+2023.02.06 11:02:15  37.9395   37.9760       10.3      -.-  4.2  4.2   ERKENEK-DOGANSEHIR (MALATYA)                      �lksel
+2023.02.06 11:01:48  36.5853   36.4533       12.8      -.-  4.2  -.-   CAMSARI-KIRIKHAN (HATAY)                          �lksel
+2023.02.06 10:59:16  38.5930   40.8903        3.4      -.-  3.1  -.-   AGILLI-KULP (DIYARBAKIR)                          REVIZE01   (2023.02.06 10:59:16)
+2023.02.06 10:50:51  39.1028   40.4190        2.6      -.-  3.5  3.5   SANCAK-(BINGOL)                                   �lksel
+2023.02.06 10:49:09  37.7408   37.3137        8.9      -.-  3.3  3.6   CAGLAYANCERIT (KAHRAMANMARAS)                     �lksel
+2023.02.06 10:47:36  38.0655   38.0805        5.0      -.-  3.8  3.9   YALINKAYA-YESILYURT (MALATYA)                     �lksel
+2023.02.06 10:45:03  36.3530   36.3235       16.8      -.-  2.6  -.-   AKTAS-KUMLU (HATAY)                               �lksel
+2023.02.06 10:43:38  37.4630   37.3798       19.7      -.-  3.3  -.-   SADAKALAR-PAZARCIK (KAHRAMANMARAS)                �lksel
+2023.02.06 10:43:09  37.2048   37.4778       28.8      -.-  3.7  -.-   GUNGURGE-SEHITKAMIL (GAZIANTEP)                   �lksel
+2023.02.06 10:39:43  37.1560   36.7495        8.2      -.-  3.5  -.-   NURDAGI (GAZIANTEP)                               �lksel
+2023.02.06 10:35:37  37.3273   36.9660        5.0      -.-  3.7  -.-   KADIOGLUCIFTLIGI-TURKOGLU (KAHRAMANMARAS)         �lksel
+2023.02.06 10:31:00  37.3350   37.0677        5.0      -.-  3.7  -.-   EMIROGLU-PAZARCIK (KAHRAMANMARAS)                 �lksel
+2023.02.06 10:28:38  36.9838   36.9350        5.2      -.-  3.0  3.2   YENICELI-ISLAHIYE (GAZIANTEP)                     �lksel
+2023.02.06 10:26:44  37.4453   38.1355        5.0      -.-  3.5  3.8   KIZILIN-BESNI (ADIYAMAN)                          �lksel
+2023.02.06 10:24:24  36.0055   36.0695       23.5      -.-  3.7  -.-   SURUTME-YAYLADAGI (HATAY)                         �lksel
+2023.02.06 10:23:21  37.3400   36.8628       11.3      -.-  3.6  -.-   HACIBEBEK-TURKOGLU (KAHRAMANMARAS)                �lksel
+2023.02.06 10:21:06  37.4762   37.1397        6.5      -.-  4.0  -.-   DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)         �lksel
+2023.02.06 10:12:10  37.2535   37.0495        5.4      -.-  3.4  -.-   EVRI-PAZARCIK (KAHRAMANMARAS)                     �lksel
+2023.02.06 10:10:10  36.6228   36.3910        9.8      -.-  3.8  -.-   TASOLUK-KIRIKHAN (HATAY)                          �lksel
+2023.02.06 10:08:31  36.6005   36.4462       11.6      -.-  4.6  -.-   SOGUTLUOZ-KIRIKHAN (HATAY)                        �lksel
+2023.02.06 10:04:06  37.4770   37.1082        5.3      -.-  3.6  -.-   SEYRANTEPE-PAZARCIK (KAHRAMANMARAS)               �lksel
+2023.02.06 09:59:04  37.4543   37.0848        5.0      -.-  4.2  -.-   CINARLI-PAZARCIK (KAHRAMANMARAS)                  �lksel
+2023.02.06 09:54:56  37.7467   37.3912        2.3      -.-  5.1  -.-   KUCUKCERIT-CAGLAYANCERIT (KAHRAMANMARAS)          �lksel
+2023.02.06 09:51:02  37.2447   36.7148       12.4      -.-  2.9  -.-   DEDELER-TURKOGLU (KAHRAMANMARAS)                  �lksel
+2023.02.06 09:48:26  37.9808   37.9883       12.1      -.-  3.8  -.-   RESADIYE-DOGANSEHIR (MALATYA)                     �lksel
+2023.02.06 09:43:14  37.7527   37.2492        9.0      -.-  4.2  -.-   CAGLAYANCERIT (KAHRAMANMARAS)                     �lksel
+2023.02.06 09:39:40  37.5170   36.9003       14.0      -.-  2.7  -.-   HACIMUSTAFA-(KAHRAMANMARAS)                       �lksel
+2023.02.06 09:38:10  36.7803   36.4740       12.5      -.-  3.8  -.-   SOGUT-HASSA (HATAY)                               �lksel
+2023.02.06 09:36:48  37.3072   36.8680       10.4      -.-  3.3  -.-   BALIKALAN-NURDAGI (GAZIANTEP)                     �lksel
+2023.02.06 09:33:19  37.2555   37.0557       14.7      -.-  3.3  -.-   EVRI-PAZARCIK (KAHRAMANMARAS)                     �lksel
+2023.02.06 09:31:42  38.1043   38.0420        5.0      -.-  3.1  -.-   ESKIKOY-DOGANSEHIR (MALATYA)                      �lksel
+2023.02.06 09:29:48  37.3850   36.8763       16.2      -.-  3.1  -.-   TURKOGLU (KAHRAMANMARAS)                          �lksel
+2023.02.06 09:26:28  37.2590   36.9835        5.2      -.-  4.7  -.-   INCIRLI-NURDAGI (GAZIANTEP)                       �lksel
+2023.02.06 09:26:13  36.2500   36.1575       21.9      -.-  4.2  -.-   KUZEYTEPE-(HATAY)                                 �lksel
+2023.02.06 09:23:33  37.2938   37.0967        2.7      -.-  3.2  -.-   ORDEKDEDE-PAZARCIK (KAHRAMANMARAS)                �lksel
+2023.02.06 09:18:00  38.1692   38.3713        7.1      -.-  4.0  -.-   ONCU-YESILYURT (MALATYA)                          �lksel
+2023.02.06 09:16:19  37.0492   36.9962        5.0      -.-  3.4  -.-   ORTAKLAR-SAHINBEY (GAZIANTEP)                     �lksel
+2023.02.06 09:14:38  37.3925   36.9622        2.8      -.-  4.1  -.-   PINARHUYUK-TURKOGLU (KAHRAMANMARAS)               �lksel
+2023.02.06 09:13:00  36.6845   37.2695       24.7      -.-  3.5  -.-   YAVUZLU-(KILIS)                                   �lksel
+2023.02.06 09:09:05  37.2533   36.8862       21.2      -.-  3.7  -.-   NOGAYLAR-NURDAGI (GAZIANTEP)                      �lksel
+2023.02.06 09:04:07  36.8768   36.7708        6.0      -.-  3.3  -.-   DEMIRCILER-(KILIS)                                �lksel
+2023.02.06 09:00:05  37.3973   37.0933        5.4      -.-  3.6  -.-   MAKSUTUSAGI-PAZARCIK (KAHRAMANMARAS)              �lksel
+2023.02.06 08:55:48  38.0040   38.1682       27.7      -.-  4.4  -.-   PINARBASI-CELIKHAN (ADIYAMAN)                     �lksel
+2023.02.06 08:51:50  36.2788   36.2258       12.0      -.-  3.3  3.6   AKCAOVA-(HATAY)                                   �lksel
+2023.02.06 08:47:59  37.2017   36.6963        7.2      -.-  3.4  -.-   OLUCAK-NURDAGI (GAZIANTEP)                        �lksel
+2023.02.06 08:44:55  36.4033   36.2380       11.1      -.-  4.2  4.2   MARASBOGAZI-(HATAY)                               �lksel
+2023.02.06 08:40:01  37.1853   36.9282        5.3      -.-  3.2  -.-   SAKCAGOZE-NURDAGI (GAZIANTEP)                     �lksel
+2023.02.06 08:36:33  36.2970   36.2035       15.4      -.-  4.9  -.-   BUYUKDALYAN-(HATAY)                               �lksel
+2023.02.06 08:33:09  38.1112   38.2308        9.5      -.-  4.3  4.1   CAMPINAR-CELIKHAN (ADIYAMAN)                      �lksel
+2023.02.06 08:31:22  38.1848   38.3047        5.0      -.-  4.5  4.2   ONCU-YESILYURT (MALATYA)                          �lksel
+2023.02.06 08:22:44  37.8463   37.9437        5.4      -.-  4.2  4.2   KASLICA-TUT (ADIYAMAN)                            �lksel
+2023.02.06 08:21:45  37.4427   37.1208       13.2      -.-  3.6  -.-   SEYRANTEPE-PAZARCIK (KAHRAMANMARAS)               �lksel
+2023.02.06 08:19:47  38.2045   38.5273       20.8      -.-  4.1  4.0   GULUMUSAGI-(MALATYA)                              �lksel
+2023.02.06 08:16:55  37.8838   37.7122        8.3      -.-  4.2  4.2   KARABAHSILI-GOLBASI (ADIYAMAN)                    �lksel
+2023.02.06 08:12:51  37.4768   37.1892       23.0      -.-  3.8  -.-   SOGUTLU-PAZARCIK (KAHRAMANMARAS)                  �lksel
+2023.02.06 08:12:36  39.1352   42.0467        7.7      -.-  2.4  -.-   KOPRUYOLU-BULANIK (MUS)                           �lksel
+2023.02.06 08:08:36  37.3442   36.8698        5.4      -.-  4.3  -.-   HACIBEBEK-TURKOGLU (KAHRAMANMARAS)                �lksel
+2023.02.06 08:04:30  37.3297   37.0503       15.9      -.-  3.6  -.-   EMIROGLU-PAZARCIK (KAHRAMANMARAS)                 �lksel
+2023.02.06 08:01:49  37.9323   37.7783       15.5      -.-  4.5  -.-   KARANLIKDERE-DOGANSEHIR (MALATYA)                 REVIZE01   (2023.02.06 08:01:49)
+2023.02.06 07:59:53  39.5760   25.9328        6.7      -.-  2.6  -.-   GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          �lksel
+2023.02.06 07:58:10  37.6995   37.3313       17.0      -.-  3.8  4.0   ORUCPINARI-CAGLAYANCERIT (KAHRAMANMARAS)          �lksel
+2023.02.06 07:56:06  37.4448   37.0202       28.7      -.-  4.4  -.-   YENIYURT-(KAHRAMANMARAS)                          �lksel
+2023.02.06 07:54:40  37.4903   37.2113        7.7      -.-  3.6  -.-   SOGUTLU-PAZARCIK (KAHRAMANMARAS)                  �lksel
+2023.02.06 07:54:29  39.0350   28.6605        5.7      -.-  1.7  -.-   DEMIRCI (MANISA)                                  �lksel
+2023.02.06 07:50:17  36.5197   36.3485       10.0      -.-  3.6  -.-   ALAYBEYLI-KIRIKHAN (HATAY)                        �lksel
+2023.02.06 07:47:57  36.6895   36.3915        8.5      -.-  4.6  -.-   GUVENC-HASSA (HATAY)                              �lksel
+2023.02.06 07:44:54  37.4053   36.6863        9.0      -.-  3.8  -.-   OZTURK-(KAHRAMANMARAS)                            �lksel
+2023.02.06 07:42:57  37.3078   36.8900        8.1      -.-  3.6  -.-   BALIKALAN-NURDAGI (GAZIANTEP)                     �lksel
+2023.02.06 07:42:11  37.4995   37.4020        6.0      -.-  2.9  -.-   GANIDAGI-PAZARCIK (KAHRAMANMARAS)                 �lksel
+2023.02.06 07:39:45  37.8840   37.6453        8.5      -.-  4.5  -.-   MEYDANKOY-GOLBASI (ADIYAMAN)                      �lksel
+2023.02.06 07:37:13  36.2420   36.2438       11.5      -.-  3.3  -.-   ALAATTIN-(HATAY)                                  �lksel
+2023.02.06 07:31:24  36.4342   36.2412        5.5      -.-  4.3  -.-   SENBUK-BELEN (HATAY)                              �lksel
+2023.02.06 07:31:01  37.2230   36.8178       21.5      -.-  4.2  -.-   MESTHUYUK-NURDAGI (GAZIANTEP)                     �lksel
+2023.02.06 07:28:00  36.6002   36.5875       14.6      -.-  3.6  -.-   TURKIYE-SURIYE SINIR BOLGESI                      �lksel
+2023.02.06 07:25:51  37.1493   36.8553        3.8      -.-  3.5  -.-   TULLUCE-NURDAGI (GAZIANTEP)                       �lksel
+2023.02.06 07:24:45  37.5290   37.2365        5.4      -.-  4.1  -.-   CICEKALANI-PAZARCIK (KAHRAMANMARAS)               �lksel
+2023.02.06 07:24:32  40.1988   27.7030       13.1      -.-  4.1  -.-   ALAETTINKOY-GONEN (BALIKESIR)                     �lksel
+2023.02.06 07:18:45  38.2092   38.5150        6.5      -.-  5.1  -.-   GULUMUSAGI-(MALATYA)                              �lksel
+2023.02.06 07:16:49  37.4957   37.1835        5.7      -.-  4.6  -.-   SOGUTLU-PAZARCIK (KAHRAMANMARAS)                  �lksel
+2023.02.06 07:14:16  38.1760   38.5385        9.5      -.-  4.0  -.-   ULUKOY-(MALATYA)                                  �lksel
+2023.02.06 07:13:36  37.4718   37.1638       10.8      -.-  3.7  -.-   DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)         �lksel
+2023.02.06 07:13:08  36.4910   36.2135        6.3      -.-  3.5  -.-   BELEN (HATAY)                                     �lksel
+2023.02.06 07:10:42  37.6285   37.3398        7.9      -.-  3.8  -.-   KARAAGAC-PAZARCIK (KAHRAMANMARAS)                 �lksel
+2023.02.06 07:07:49  37.1325   36.6988       12.3      -.-  2.5  -.-   KARABURCLU-NURDAGI (GAZIANTEP)                    �lksel
+2023.02.06 07:05:17  37.8215   37.5253       10.7      -.-  4.2  4.0   SAVRAN-GOLBASI (ADIYAMAN)                         �lksel
+2023.02.06 07:04:25  38.0348   37.3172       21.8      -.-  4.5  -.-   BARIS-NURHAK (KAHRAMANMARAS)                      �lksel
+2023.02.06 07:03:21  37.4808   37.5947        5.0      -.-  4.1  -.-   KOKLUCE-ARABAN (GAZIANTEP)                        �lksel
+2023.02.06 07:01:15  37.2362   36.8435       17.1      -.-  4.0  -.-   KIRISKAL-NURDAGI (GAZIANTEP)                      �lksel
+2023.02.06 06:58:18  36.4770   36.3637       16.5      -.-  4.3  -.-   RESATLI-KIRIKHAN (HATAY)                          �lksel
+2023.02.06 06:55:38  37.7300   37.5587        8.4      -.-  4.1  -.-   BALKAR-GOLBASI (ADIYAMAN)                         �lksel
+2023.02.06 06:54:00  37.6995   37.0892       16.2      -.-  4.1  -.-   BAHCELI-(KAHRAMANMARAS)                           �lksel
+2023.02.06 06:52:44  37.6772   36.5540        5.5      -.-  3.8  -.-   CINARPINAR-(KAHRAMANMARAS)                        �lksel
+2023.02.06 06:49:27  37.3440   36.9440        5.6      -.-  3.7  -.-   COBANTEPE-TURKOGLU (KAHRAMANMARAS)                �lksel
+2023.02.06 06:48:43  37.3647   36.9802        6.0      -.-  3.8  -.-   OZBEK-TURKOGLU (KAHRAMANMARAS)                    �lksel
+2023.02.06 06:45:47  38.3225   38.6932        7.7      -.-  4.9  -.-   KAMISTAS-(MALATYA)                                �lksel
+2023.02.06 06:41:27  37.3830   37.1363        7.3      -.-  4.1  -.-   NARLI-PAZARCIK (KAHRAMANMARAS)                    �lksel
+2023.02.06 06:33:29  39.6595   41.1865        8.3      -.-  2.6  -.-   CUKURCAYIR-CAT (ERZURUM)                          �lksel
+2023.02.06 06:32:52  37.3413   36.8440        8.9      -.-  3.9  -.-   CECELI-TURKOGLU (KAHRAMANMARAS)                   �lksel
+2023.02.06 06:30:29  40.7313   29.0987        2.2      -.-  2.3  -.-   CINARCIK (YALOVA)                                 �lksel
+2023.02.06 06:28:44  38.2160   38.5395        5.0      -.-  4.5  -.-   GULUMUSAGI-(MALATYA)                              �lksel
+2023.02.06 06:25:10  37.0937   36.5767        3.5      -.-  4.0  -.-   SARAYOVA-HASANBEYLI (OSMANIYE)                    �lksel
+2023.02.06 06:22:01  37.1255   36.3817        7.2      -.-  3.6  -.-   CAGSAK-(OSMANIYE)                                 �lksel
+2023.02.06 06:18:45  39.3437   41.0718        4.4      -.-  2.8  -.-   YONCALIK-KARLIOVA (BINGOL)                        �lksel
+2023.02.06 06:16:14  38.1663   38.4345       15.8      -.-  4.4  -.-   AKSU-SINCIK (ADIYAMAN)                            �lksel
+2023.02.06 06:12:12  37.4090   37.3243       14.2      -.-  4.0  -.-   UFACIKLI-PAZARCIK (KAHRAMANMARAS)                 �lksel
+2023.02.06 06:10:20  37.9542   37.8303        8.6      -.-  4.4  4.3   KARANLIKDERE-DOGANSEHIR (MALATYA)                 �lksel
+2023.02.06 06:04:43  38.1832   38.5378        5.0      -.-  4.9  4.9   ULUKOY-(MALATYA)                                  �lksel
+2023.02.06 06:02:19  37.8863   37.8138        5.3      -.-  3.6  -.-   CANKARA-GOLBASI (ADIYAMAN)                        REVIZE01   (2023.02.06 06:02:19)
+2023.02.06 05:56:28  36.7308   36.9762        5.5      -.-  3.5  -.-   DURUCA-(KILIS)                                    REVIZE01   (2023.02.06 05:56:28)
+2023.02.06 05:55:08  37.3437   37.0497        4.5      -.-  4.7  -.-   EMIROGLU-PAZARCIK (KAHRAMANMARAS)                 �lksel
+2023.02.06 05:53:45  38.4433   39.3423       12.4      -.-  3.8  -.-   SIVRICE (ELAZIG)                                  �lksel
+2023.02.06 05:52:12  38.5287   40.3335        6.6      -.-  4.1  -.-   SARIBUDAK-GENC (BINGOL)                           �lksel
+2023.02.06 05:50:41  37.2118   36.9197        5.2      -.-  3.6  -.-   NAIMLER-NURDAGI (GAZIANTEP)                       �lksel
+2023.02.06 05:48:23  36.1077   36.1792       18.6      -.-  4.2  -.-   SOFULAR-(HATAY)                                   �lksel
+2023.02.06 05:43:46  36.6810   36.4327        7.9      -.-  4.2  -.-   DEMREK-HASSA (HATAY)                              �lksel
+2023.02.06 05:38:02  37.6458   37.3163        7.1      -.-  3.7  -.-   BOLUKDAMLAR-CAGLAYANCERIT (KAHRAMANMARAS)         �lksel
+2023.02.06 05:36:55  37.4593   36.9020       10.9      -.-  3.2  -.-   CAKALLIHASANAGA-TURKOGLU (KAHRAMANMARAS)          �lksel
+2023.02.06 05:34:19  37.6032   37.2467       17.4      -.-  4.4  -.-   KAZANLIPINAR-(KAHRAMANMARAS)                      �lksel
+2023.02.06 05:33:26  38.2273   38.5983        4.1      -.-  3.6  -.-   SOGUTLU-PUTURGE (MALATYA)                         �lksel
+2023.02.06 05:31:17  36.7273   36.9037       12.2      -.-  4.8  -.-   TURKIYE-SURIYE SINIR BOLGESI                      �lksel
+2023.02.06 05:28:46  37.4860   36.9223        4.9      -.-  3.7  -.-   SEREFOGLU-(KAHRAMANMARAS)                         �lksel
+2023.02.06 05:26:32  38.0800   38.2388        5.5      -.-  4.3  -.-   GOLBAGI-CELIKHAN (ADIYAMAN)                       �lksel
+2023.02.06 05:23:13  37.1628   36.9292        5.0      -.-  5.4  -.-   SAKCAGOZE-NURDAGI (GAZIANTEP)                     �lksel
+2023.02.06 05:21:19  37.5202   37.0940        1.8      -.-  4.6  -.-   ELMALAR-(KAHRAMANMARAS)                           �lksel
+2023.02.06 05:17:37  36.8367   36.7980        9.8      -.-  4.9  -.-   GULBABA-(KILIS)                                   �lksel
+2023.02.06 05:06:23  37.8892   37.9855        6.6      -.-  4.8  -.-   ERKENEK-DOGANSEHIR (MALATYA)                      �lksel
+2023.02.06 05:03:35  37.8602   37.8113        5.0      -.-  5.5  -.-   CANKARA-GOLBASI (ADIYAMAN)                        �lksel
+2023.02.06 05:01:44  37.2988   37.0045       12.6      -.-  4.7  -.-   CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             �lksel
+2023.02.06 04:59:57  38.5983   39.4222        8.4      -.-  4.0  -.-   YENIKAPI-(ELAZIG)                                 �lksel
+2023.02.06 04:58:22  36.8588   36.7102        8.5      -.-  5.2  -.-   KAZIKLI-ISLAHIYE (GAZIANTEP)                      �lksel
+2023.02.06 04:51:44  37.5143   37.1980        5.0      -.-  5.1  -.-   SOGUTLU-PAZARCIK (KAHRAMANMARAS)                  �lksel
+2023.02.06 04:47:42  38.5642   40.5523        2.5      -.-  4.3  -.-   ORTULU-LICE (DIYARBAKIR)                          �lksel
+2023.02.06 04:36:26  36.8932   36.7413        5.0      -.-  5.6  -.-   YESEMEK-ISLAHIYE (GAZIANTEP)                      �lksel
+2023.02.06 04:28:17  37.1292   36.8150        5.7      -.-  6.6  -.-   DURMUSLAR-NURDAGI (GAZIANTEP)                     �lksel
+2023.02.06 04:26:48  37.2008   36.9572        5.0      -.-  5.5  -.-   SATIRHUYUK-NURDAGI (GAZIANTEP)                    �lksel
+2023.02.06 04:23:15  37.0780   36.7307        8.8      -.-  4.7  -.-   ELBISTANHUYUGU-ISLAHIYE (GAZIANTEP)               �lksel
+2023.02.06 04:17:31  37.1123   37.1195        5.0      -.-  7.4  7.7   SOFALACA-SEHITKAMIL (GAZIANTEP)                   REVIZE02   (2023.02.06 04:17:31)
+2023.02.06 03:16:01  41.1913   44.0533        6.3      -.-  3.3  3.4   GURCISTAN                                         �lksel
+2023.02.06 03:15:55  38.7330   43.2393        5.0      -.-  2.4  -.-   OZYURT-(VAN)                                      �lksel
+2023.02.06 02:56:29  37.0913   28.3700       13.3      -.-  2.0  -.-   KIZILAGAC-ULA (MUGLA)                             �lksel
+2023.02.06 00:08:01  38.4833   39.2502        1.6      -.-  1.7  -.-   ALINCIK-SIVRICE (ELAZIG)                          �lksel
+2023.02.05 23:28:24  39.7103   43.0500        7.9      -.-  1.3  -.-   AGRI                                              �lksel
+2023.02.05 23:26:47  40.6608   30.4828        3.6      -.-  1.1  -.-   KARAPURCEK (SAKARYA)                              �lksel
+2023.02.05 23:25:40  39.4027   26.1885       11.4      -.-  2.8  -.-   MIDILLI ADASI (EGE DENIZI)                        REVIZE01   (2023.02.05 23:25:40)
+2023.02.05 23:08:46  39.4133   26.3043       21.8      -.-  1.8  -.-   EDREMIT KORFEZI (EGE DENIZI)                      �lksel
+2023.02.05 22:47:03  39.4282   26.2860       22.2      -.-  1.8  -.-   EDREMIT KORFEZI (EGE DENIZI)                      �lksel
+2023.02.05 22:42:58  38.3487   27.2055       13.0      -.-  1.7  -.-   ZAFER-BUCA (IZMIR)                                �lksel
+2023.02.05 22:21:42  42.2602   25.8920       13.9      -.-  2.8  -.-   BULGARISTAN                                       �lksel
+2023.02.05 21:56:32  38.3705   27.2637        8.1      -.-  1.4  -.-   GOKDERE-BORNOVA (IZMIR)                           �lksel
+2023.02.05 21:34:25  38.5837   44.9742        5.0      -.-  2.3  -.-   IRAN                                              �lksel
+2023.02.05 21:24:30  38.6093   31.0925        4.9      -.-  1.1  -.-   CAYIRPINAR-CAY (AFYONKARAHISAR)                   �lksel
+2023.02.05 21:24:04  38.6042   31.1255       15.7      -.-  1.2  -.-   EBER-CAY (AFYONKARAHISAR)                         �lksel
+2023.02.05 21:21:32  37.1773   35.2148       20.0      -.-  1.1  -.-   KIRIKLI-KARAISALI (ADANA)                         �lksel
+2023.02.05 21:16:34  37.3748   35.8753       20.7      -.-  1.3  -.-   KUYULUK-KOZAN (ADANA)                             �lksel
+2023.02.05 20:37:51  38.5553   44.9128        5.0      -.-  2.0  -.-   TURKIYE-IRAN SINIR BOLGESI                        �lksel
+2023.02.05 20:30:44  38.5350   44.9402        5.0      -.-  2.5  -.-   IRAN                                              �lksel
+2023.02.05 20:10:35  37.8377   34.9830       28.2      -.-  1.1  -.-   CAMARDI (NIGDE)                                   �lksel
+2023.02.05 19:49:59  38.2938   27.1648       10.5      -.-  1.5  -.-   KISIK-MENDERES (IZMIR)                            �lksel
+2023.02.05 19:44:53  39.9292   41.9110        9.0      -.-  1.4  -.-   YAGAN-KOPRUKOY (ERZURUM)                          �lksel
+2023.02.05 19:43:38  39.5813   38.4907        5.0      -.-  2.3  -.-   DORUKSARAY-ILIC (ERZINCAN)                        �lksel
+2023.02.05 19:15:09  40.6733   30.4370        7.5      -.-  2.9  -.-   KAYALARRESITBEY-ERENLER (SAKARYA)                 �lksel
+2023.02.05 18:49:49  40.8027   31.0297        5.7      -.-  2.5  -.-   ICMELER-GOLYAKA (DUZCE)                           �lksel
+2023.02.05 18:39:16  37.9472   35.0757        5.5      -.-  1.4  -.-   BADEMDERE-CAMARDI (NIGDE)                         �lksel
+2023.02.05 18:04:13  38.5698   44.9897        5.0      -.-  2.5  -.-   IRAN                                              �lksel
+2023.02.05 17:23:58  40.2632   43.0957       29.4      -.-  1.5  -.-   SABANKOY-KAGIZMAN (KARS)                          �lksel
+2023.02.05 17:13:50  36.3467   42.2032        4.8      -.-  2.6  -.-   IRAK-SURIYE SINIR BOLGES�                         REVIZE01   (2023.02.05 17:13:50)
+2023.02.05 16:52:41  35.5083   36.1673       27.9      -.-  1.9  -.-   SURIYE                                            �lksel
+2023.02.05 15:49:57  40.8058   27.7863       18.8      -.-  3.6  -.-   MARMARA DENIZI                                    �lksel
+2023.02.05 15:18:31  40.1640   41.9892        8.3      -.-  1.8  -.-   MURATBAGI-HORASAN (ERZURUM)                       �lksel
+2023.02.05 13:59:58  40.8113   31.0832        7.6      -.-  1.6  -.-   PASAKONAGI-(DUZCE)                                �lksel
+2023.02.05 13:08:32  38.4718   32.7073        8.0      -.-  1.5  -.-   AYISIGI-ALTINEKIN (KONYA)                         �lksel
+2023.02.05 12:55:25  35.7055   36.5878        5.0      -.-  1.9  -.-   SURIYE                                            �lksel
+2023.02.05 12:07:44  38.3333   45.2742       64.8      -.-  3.9  -.-   IRAN                                              �lksel
+2023.02.05 11:58:11  37.9587   35.1048        5.0      -.-  2.0  -.-   KAVLAKTEPE-CAMARDI (NIGDE)                        �lksel
+2023.02.05 10:38:00  38.3492   27.2023        4.7      -.-  1.9  -.-   ZAFER-BUCA (IZMIR)                                �lksel
+2023.02.05 10:34:20  41.9252   29.6677        7.3      -.-  2.6  -.-   KARADENIZ                                         �lksel
+2023.02.05 10:32:02  38.3465   27.1690       12.0      -.-  3.2  3.2   GAZIEMIR (IZMIR)                                  �lksel
+2023.02.05 10:22:59  37.9110   27.0688       11.6      -.-  1.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.05 10:21:55  37.9785   27.1613        6.6      -.-  1.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.05 09:18:09  38.3520   27.1740       11.2      -.-  3.1  3.1   GAZIEMIR (IZMIR)                                  �lksel
+2023.02.05 09:06:53  35.1487   34.0710        7.1      -.-  3.6  3.6   AKDENIZ                                           �lksel
+2023.02.05 08:43:09  37.9642   35.0848        5.2      -.-  1.1  -.-   KAVLAKTEPE-CAMARDI (NIGDE)                        �lksel
+2023.02.05 07:46:32  36.7867   26.0080        5.0      -.-  2.8  -.-   AKDENIZ                                           �lksel
+2023.02.05 07:26:05  37.3923   36.0403        8.1      -.-  1.7  -.-   AZAPLI-KADIRLI (OSMANIYE)                         �lksel
+2023.02.05 07:16:52  37.4537   36.0402        4.3      -.-  2.0  -.-   ARMAGANLI-SUMBAS (OSMANIYE)                       �lksel
+2023.02.05 06:50:55  36.6365   25.8043        7.2      -.-  2.2  -.-   AKDENIZ                                           �lksel
+2023.02.05 06:18:36  38.5393   39.2352        7.8      -.-  1.8  -.-   GOZEBASI-(ELAZIG)                                 �lksel
+2023.02.05 06:15:38  37.8420   29.2592       16.8      -.-  1.3  -.-   GURLEYIK-HONAZ (DENIZLI)                          �lksel
+2023.02.05 05:37:24  38.3957   42.6115        5.1      -.-  2.3  -.-   YEDIVEREN-TATVAN (BITLIS)                         �lksel
+2023.02.05 04:19:12  36.8878   29.0145        2.1      -.-  2.6  -.-   TASBASI-DALAMAN (MUGLA)                           �lksel
+2023.02.05 03:15:09  41.0978   28.9602       12.1      -.-  3.2  3.1   KAGITHANE (ISTANBUL)                              �lksel
+2023.02.05 02:31:17  40.7628   30.8533        2.9      -.-  1.5  -.-   DEGIRMENTEPE-GOLYAKA (DUZCE)                      �lksel
+2023.02.05 02:20:19  40.6595   30.4495       16.1      -.-  2.5  -.-   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.05 01:46:00  37.9762   27.0210        5.5      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.05 01:43:01  38.4238   42.6192        7.3      -.-  1.3  -.-   UNCULAR-TATVAN (BITLIS)                           �lksel
+2023.02.05 00:34:11  38.6530   42.0135       17.7      -.-  1.1  -.-   BUDAKLI-GUROYMAK (BITLIS)                         �lksel
+2023.02.05 00:20:59  38.9690   27.8853       15.0      -.-  0.9  -.-   CAMONU-AKHISAR (MANISA)                           �lksel
+2023.02.05 00:05:24  40.6618   30.4545       14.0      -.-  1.9  -.-   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.04 23:43:36  40.4888   29.1420        3.2      -.-  1.5  -.-   HAYDARIYE-GEMLIK (BURSA)                          �lksel
+2023.02.04 23:32:47  38.3232   27.2372        5.0      -.-  1.1  -.-   ZAFER-BUCA (IZMIR)                                �lksel
+2023.02.04 23:08:16  40.1495   27.3343       10.7      -.-  2.4  -.-   ARABAALAN-BIGA (CANAKKALE)                        �lksel
+2023.02.04 22:56:48  40.8427   28.7483       12.0      -.-  1.5  -.-   AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        �lksel
+2023.02.04 22:33:24  40.7880   30.9537        4.6      -.-  1.7  -.-   YESILOVA-GOLYAKA (DUZCE)                          �lksel
+2023.02.04 21:35:53  37.8182   27.0110       10.4      -.-  1.5  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.04 21:32:40  37.8165   27.0098        8.2      -.-  1.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.04 21:30:39  37.7948   27.0078        4.2      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.04 21:07:20  39.1048   28.1653        5.3      -.-  1.7  -.-   KINIK-SINDIRGI (BALIKESIR)                        �lksel
+2023.02.04 20:58:27  37.0295   28.3053        5.0      -.-  1.4  -.-   CETIBELI-MARMARIS (MUGLA)                         �lksel
+2023.02.04 20:28:42  39.0392   28.6127        5.3      -.-  2.9  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.04 20:03:26  37.1483   27.7858        0.0      -.-  1.0  -.-   KARACAHISAR-MILAS (MUGLA)                         �lksel
+2023.02.04 19:55:59  36.9028   36.9457        5.4      -.-  1.3  -.-   BALIKLI-MUSABEYLI (KILIS)                         �lksel
+2023.02.04 19:36:05  40.6240   35.5853       11.4      -.-  1.5  -.-   DOGANTEPE-(AMASYA)                                �lksel
+2023.02.04 19:22:09  35.6985   31.7615        9.6      -.-  2.4  -.-   AKDENIZ                                           �lksel
+2023.02.04 19:21:54  37.9472   32.2493        2.1      -.-  1.2  -.-   ULUMUHSINE-SELCUKLU (KONYA)                       �lksel
+2023.02.04 19:12:35  39.0308   28.6003       11.9      -.-  1.4  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.04 19:06:07  38.9792   41.6087       11.8      -.-  1.8  -.-   SARIDAL-(MUS)                                     �lksel
+2023.02.04 18:48:04  39.0368   28.6100        5.4      -.-  2.2  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.04 18:14:10  37.8623   32.3755        8.3      -.-  1.3  -.-   KONYA                                             �lksel
+2023.02.04 17:24:22  37.7962   27.0118        5.1      -.-  1.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.04 17:17:48  37.9017   32.4667        6.7      -.-  0.9  -.-   SELCUKLU (KONYA)                                  �lksel
+2023.02.04 17:12:36  37.8165   27.0073        5.2      -.-  2.3  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.04 17:05:41  37.8612   32.3850        5.4      -.-  1.3  -.-   KONYA                                             �lksel
+2023.02.04 16:58:48  37.9292   32.2962        6.5      -.-  1.4  -.-   KUCUKMUHSINE-SELCUKLU (KONYA)                     �lksel
+2023.02.04 16:56:39  37.8782   32.3115        6.6      -.-  1.7  -.-   KUCUKMUHSINE-SELCUKLU (KONYA)                     �lksel
+2023.02.04 16:55:05  37.8890   32.3167        5.4      -.-  1.6  -.-   KUCUKMUHSINE-SELCUKLU (KONYA)                     �lksel
+2023.02.04 16:48:22  37.8722   32.3740        6.2      -.-  1.5  -.-   KONYA                                             �lksel
+2023.02.04 16:35:29  37.8620   32.3863        5.3      -.-  1.6  -.-   KONYA                                             �lksel
+2023.02.04 15:39:18  37.8720   32.2892        0.0      -.-  1.6  -.-   KUCUKMUHSINE-SELCUKLU (KONYA)                     �lksel
+2023.02.04 15:27:13  38.8025   43.5460        5.0      -.-  2.1  -.-   DEGIRMENOZU-(VAN)                                 �lksel
+2023.02.04 12:19:47  36.3933   31.2993        5.0      -.-  2.0  -.-   ANTALYA KORFEZI (AKDENIZ)                         �lksel
+2023.02.04 12:18:33  37.8725   32.2927        0.0      -.-  1.5  -.-   KUCUKMUHSINE-SELCUKLU (KONYA)                     �lksel
+2023.02.04 12:06:47  38.1770   43.0505        6.7      -.-  1.8  -.-   UZUNTEKNE-CATAK (VAN)                             �lksel
+2023.02.04 11:28:08  37.3958   36.4363        5.6      -.-  1.7  -.-   SUMAKLI-ANDIRIN (KAHRAMANMARAS)                   �lksel
+2023.02.04 11:22:17  37.3813   36.2883        5.0      -.-  2.8  -.-   KIYIKCI-ANDIRIN (KAHRAMANMARAS)                   �lksel
+2023.02.04 10:57:45  37.8718   32.3357        0.0      -.-  1.8  -.-   KUCUKMUHSINE-SELCUKLU (KONYA)                     �lksel
+2023.02.04 10:50:49  38.0967   25.8860        4.7      -.-  2.0  -.-   SAKIZ ADASI (EGE DENIZI)                          �lksel
+2023.02.04 09:16:03  37.8673   32.3580        8.0      -.-  1.8  -.-   KUCUKMUHSINE-SELCUKLU (KONYA)                     �lksel
+2023.02.04 09:03:39  40.7682   34.9722        6.0      -.-  4.0  3.9   SITMA-LACIN (CORUM)                               �lksel
+2023.02.04 08:44:28  37.8913   32.2622        6.8      -.-  1.6  -.-   ULUMUHSINE-SELCUKLU (KONYA)                       �lksel
+2023.02.04 08:27:56  37.8788   29.4505        1.5      -.-  2.2  -.-   YOKUSBASI-HONAZ (DENIZLI)                         �lksel
+2023.02.04 08:20:15  37.8792   32.2877        6.9      -.-  1.7  -.-   KUCUKMUHSINE-SELCUKLU (KONYA)                     �lksel
+2023.02.04 07:56:54  40.6697   30.4580       13.0      -.-  1.0  -.-   KAYALARRESITBEY-ERENLER (SAKARYA)                 �lksel
+2023.02.04 07:47:31  38.6232   30.7705        5.4      -.-  1.4  -.-   DEGIRMENDERE-(AFYONKARAHISAR)                     �lksel
+2023.02.04 07:42:02  35.8865   29.3138       13.8      -.-  1.7  -.-   AKDENIZ                                           �lksel
+2023.02.04 07:40:09  36.8412   30.3585        4.8      -.-  1.4  -.-   GUZLE-KORKUTELI (ANTALYA)                         �lksel
+2023.02.04 07:24:16  40.2847   27.4903        6.5      -.-  2.6  -.-   KEPEKLI-BIGA (CANAKKALE)                          �lksel
+2023.02.04 07:01:39  40.6793   30.4398       10.8      -.-  1.1  -.-   KAYALARRESITBEY-ERENLER (SAKARYA)                 �lksel
+2023.02.04 06:00:11  38.0188   27.1703        6.2      -.-  1.5  -.-   CILE-MENDERES (IZMIR)                             �lksel
+2023.02.04 05:39:24  39.8417   37.6982        2.4      -.-  3.0  -.-   EKINLI-ZARA (SIVAS)                               �lksel
+2023.02.04 05:29:52  37.6245   28.3257        9.9      -.-  1.2  -.-   ALTINTAS-BOZDOGAN (AYDIN)                         �lksel
+2023.02.04 05:18:27  38.4800   39.0342       15.7      -.-  1.4  -.-   SAKABASI-(ELAZIG)                                 �lksel
+2023.02.04 05:06:21  38.6268   44.8720        5.0      -.-  3.0  -.-   TURKIYE-IRAN SINIR BOLGESI                        �lksel
+2023.02.04 04:42:51  38.0982   27.0582        7.8      -.-  1.4  -.-   KELER-MENDERES (IZMIR)                            �lksel
+2023.02.04 03:58:38  40.6950   29.8463       10.4      -.-  1.5  -.-   NIMETIYE-GOLCUK (KOCAELI)                         �lksel
+2023.02.04 03:58:15  40.6707   30.4428       14.9      -.-  1.2  -.-   KAYALARRESITBEY-ERENLER (SAKARYA)                 �lksel
+2023.02.04 03:16:32  40.5678   35.7743        7.9      -.-  3.4  -.-   KAYABASI-(AMASYA)                                 �lksel
+2023.02.04 02:46:50  39.0277   28.6313        7.7      -.-  1.4  -.-   IMRENLER-DEMIRCI (MANISA)                         �lksel
+2023.02.04 02:30:36  37.9075   32.2568        4.9      -.-  1.1  -.-   ULUMUHSINE-SELCUKLU (KONYA)                       �lksel
+2023.02.04 02:27:29  37.8630   32.4290       12.3      -.-  1.2  -.-   KONYA                                             �lksel
+2023.02.04 02:24:25  40.6412   34.6663       19.2      -.-  1.3  -.-   ARSLANKOY-(CORUM)                                 �lksel
+2023.02.04 02:24:11  37.0907   28.3937       11.9      -.-  0.8  -.-   ULA (MUGLA)                                       �lksel
+2023.02.04 02:13:25  39.0293   28.6107        9.8      -.-  1.3  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.04 02:13:05  39.0478   28.6117        5.3      -.-  1.6  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.04 02:08:24  39.0392   28.6208       11.6      -.-  1.1  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.04 02:05:00  39.3572   26.2775        8.4      -.-  1.4  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.04 02:04:09  38.5490   44.8280        5.0      -.-  2.2  -.-   TURKIYE-IRAN SINIR BOLGESI                        �lksel
+2023.02.04 01:55:53  39.3743   26.2355        5.2      -.-  1.4  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.04 01:46:50  40.4827   29.1523        4.2      -.-  1.6  -.-   HAYDARIYE-GEMLIK (BURSA)                          �lksel
+2023.02.04 01:43:09  38.2822   38.8243        5.0      -.-  2.7  -.-   AKTARLI-PUTURGE (MALATYA)                         �lksel
+2023.02.04 01:35:20  40.6705   30.4578       15.3      -.-  1.3  -.-   KAYALARRESITBEY-ERENLER (SAKARYA)                 �lksel
+2023.02.04 01:06:31  37.2102   36.2645        5.3      -.-  2.1  -.-   KARAGEDIK-DUZICI (OSMANIYE)                       �lksel
+2023.02.04 00:46:03  37.8973   26.9382        4.7      -.-  1.5  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.03 23:10:35  37.8973   27.1115        6.8      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.03 23:04:00  39.2890   27.7220       10.5      -.-  1.7  -.-   KOZLUOREN-SOMA (MANISA)                           �lksel
+2023.02.03 22:44:17  37.8205   27.0168        4.1      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.03 22:20:09  37.8690   32.3925        5.7      -.-  1.7  -.-   KONYA                                             �lksel
+2023.02.03 21:37:45  40.7225   42.6510        4.9      -.-  1.8  -.-   GEDIK-GOLE (ARDAHAN)                              �lksel
+2023.02.03 21:37:20  40.7125   27.4567       12.1      -.-  1.2  -.-   GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       �lksel
+2023.02.03 21:11:33  39.0152   29.9163       10.8      -.-  1.9  -.-   ALINCIK-ALTINTAS (KUTAHYA)                        �lksel
+2023.02.03 20:58:40  37.0340   27.7160       10.0      -.-  2.6  -.-   MAZIKOY-BODRUM (MUGLA)                            �lksel
+2023.02.03 20:50:29  37.8602   29.3545       15.4      -.-  1.6  -.-   KARAPINAR-CAL (DENIZLI)                           �lksel
+2023.02.03 20:48:11  37.8510   29.3397        9.2      -.-  2.0  -.-   KOCABAS-HONAZ (DENIZLI)                           �lksel
+2023.02.03 20:42:43  40.3890   27.2272        9.8      -.-  1.8  -.-   ORTULUCE-BIGA (CANAKKALE)                         �lksel
+2023.02.03 20:31:44  35.6252   23.3440        6.5      -.-  3.5  -.-   GIRIT ADASI (AKDENIZ)                             �lksel
+2023.02.03 19:36:41  40.7880   31.0220        8.4      -.-  1.8  -.-   GOLYAKA (DUZCE)                                   �lksel
+2023.02.03 19:24:14  40.6670   30.4465       10.9      -.-  1.2  -.-   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.03 19:16:21  38.8270   31.1257        5.2      -.-  1.5  -.-   TASLIDERE-BOLVADIN (AFYONKARAHISAR)               �lksel
+2023.02.03 19:06:01  39.6702   43.0798        5.2      -.-  2.0  -.-   YAKINCA-(AGRI)                                    �lksel
+2023.02.03 19:01:56  37.2512   36.3293        2.5      -.-  1.0  -.-   ATALAN-DUZICI (OSMANIYE)                          �lksel
+2023.02.03 18:10:17  37.8618   33.4307        5.0      -.-  2.5  -.-   YENIKENT-KARATAY (KONYA)                          �lksel
+2023.02.03 17:27:16  37.3720   29.5493        7.4      -.-  2.1  -.-   YAZIR-ACIPAYAM (DENIZLI)                          �lksel
+2023.02.03 16:45:13  40.7717   31.0060        5.9      -.-  1.9  -.-   ACMA-GOLYAKA (DUZCE)                              �lksel
+2023.02.03 16:42:10  41.6033   41.8500        8.5      -.-  3.0  -.-   CAMILI-BORCKA (ARTVIN)                            REVIZE01   (2023.02.03 16:42:10)
+2023.02.03 16:14:51  36.4303   29.6408        5.5      -.-  2.0  -.-   BELDIBI-KAS (ANTALYA)                             �lksel
+2023.02.03 15:44:10  36.7638   21.2602       16.7      -.-  4.1  4.0   YUNANISTAN                                        �lksel
+2023.02.03 15:22:33  36.8767   27.5973        3.4      -.-  2.2  -.-   GOKOVA KORFEZI (AKDENIZ)                          �lksel
+2023.02.03 14:54:11  40.8838   30.3413       13.6      -.-  1.4  -.-   KAYRANCIK-ADAPAZARI (SAKARYA)                     �lksel
+2023.02.03 14:39:42  39.2420   29.4108        5.3      -.-  1.5  -.-   DUSECEK-EMET (KUTAHYA)                            �lksel
+2023.02.03 14:38:38  36.9935   37.0473        9.5      -.-  1.4  -.-   YASTICA-MUSABEYLI (KILIS)                         �lksel
+2023.02.03 14:37:13  37.2018   36.3388       12.9      -.-  2.0  -.-   YAZLAMAZLI-DUZICI (OSMANIYE)                      �lksel
+2023.02.03 14:35:22  39.5518   27.5870        9.3      -.-  2.5  -.-   BUYUKFINDIK-IVRINDI (BALIKESIR)                   �lksel
+2023.02.03 14:17:53  40.7770   31.0792       14.1      -.-  1.5  -.-   GOLORMANI-(DUZCE)                                 �lksel
+2023.02.03 14:12:10  37.2032   36.3965        5.4      -.-  1.8  -.-   ELLEK-DUZICI (OSMANIYE)                           �lksel
+2023.02.03 14:10:07  36.9387   36.3130       10.3      -.-  1.9  -.-   KIZLARCAYI-ERZIN (HATAY)                          �lksel
+2023.02.03 14:05:08  37.1973   36.4153        5.2      -.-  4.2  4.1   YARBASI-DUZICI (OSMANIYE)                         �lksel
+2023.02.03 13:06:16  36.1063   33.5343        0.0      -.-  1.6  -.-   YANISLI-GULNAR (MERSIN)                           �lksel
+2023.02.03 12:42:00  36.2308   33.5960        0.0      -.-  1.3  -.-   HIRMANLI-SILIFKE (MERSIN)                         �lksel
+2023.02.03 12:02:55  37.5512   40.4018        2.7      -.-  1.5  -.-   YETKINLER-MAZIDAGI (MARDIN)                       �lksel
+2023.02.03 11:24:11  39.2565   30.4340        0.0      -.-  1.7  -.-   SALIHLER-SEYITGAZI (ESKISEHIR)                    �lksel
+2023.02.03 10:45:02  39.1533   29.0815       10.4      -.-  1.6  -.-   SOGUT-SIMAV (KUTAHYA)                             �lksel
+2023.02.03 10:41:08  36.3897   29.0150       36.1      -.-  2.2  -.-   OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 �lksel
+2023.02.03 10:35:00  38.1013   27.0318        2.9      -.-  1.6  -.-   KELER-MENDERES (IZMIR)                            �lksel
+2023.02.03 09:42:18  40.6627   30.4557       11.9      -.-  1.3  -.-   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.03 09:18:24  38.4838   30.4325       19.2      -.-  0.9  -.-   TEKKE-SUHUT (AFYONKARAHISAR)                      �lksel
+2023.02.03 08:47:55  36.1177   27.3603       16.4      -.-  2.1  -.-   AKDENIZ                                           �lksel
+2023.02.03 08:01:27  37.8788   29.4897       11.8      -.-  1.4  -.-   ALIKURT-BOZKURT (DENIZLI)                         �lksel
+2023.02.03 07:59:48  40.6988   36.7060        5.0      -.-  3.7  3.7   DOGANYURT-ERBAA (TOKAT)                           �lksel
+2023.02.03 07:48:11  36.0497   27.4242       11.7      -.-  2.1  -.-   AKDENIZ                                           �lksel
+2023.02.03 06:33:40  39.3972   26.2047        1.8      -.-  1.5  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.03 06:10:21  38.5623   26.7192        6.4      -.-  2.7  -.-   IZMIR KORFEZI (EGE DENIZI)                        �lksel
+2023.02.03 05:48:03  40.7902   30.8713       12.4      -.-  1.6  -.-   YESILYAYLA-GUMUSOVA (DUZCE)                       �lksel
+2023.02.03 05:25:32  38.3458   27.2033        7.9      -.-  1.6  -.-   ZAFER-BUCA (IZMIR)                                �lksel
+2023.02.03 04:34:45  40.8385   28.7643       20.4      -.-  2.1  -.-   AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        �lksel
+2023.02.03 04:14:13  35.0573   24.8228        5.0      -.-  2.7  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    �lksel
+2023.02.03 03:59:57  38.6450   40.3510       14.6      -.-  1.8  -.-   KAVAKLI-GENC (BINGOL)                             �lksel
+2023.02.03 03:49:02  36.7392   34.7078        5.4      -.-  1.9  -.-   MERSIN ACIKLARI-MERSIN (AKDENIZ)                  �lksel
+2023.02.03 03:46:57  39.2633   42.3333       18.2      -.-  1.3  -.-   KARAKOC-MALAZGIRT (MUS)                           �lksel
+2023.02.03 02:44:47  35.9345   23.3012       23.8      -.-  2.4  -.-   GIRIT ADASI (AKDENIZ)                             �lksel
+2023.02.03 02:32:45  39.4252   26.2502        9.9      -.-  1.5  -.-   EDREMIT KORFEZI (EGE DENIZI)                      �lksel
+2023.02.03 02:09:39  39.1000   40.9722        5.3      -.-  1.1  -.-   GOYNUK-KARLIOVA (BINGOL)                          �lksel
+2023.02.03 01:40:15  37.8895   26.9522       13.1      -.-  2.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     �lksel
+2023.02.03 01:21:14  35.9043   28.6525       16.9      -.-  1.9  -.-   AKDENIZ                                           �lksel
+2023.02.03 01:15:41  38.4645   44.8102       13.8      -.-  2.2  -.-   TURKIYE-IRAN SINIR BOLGESI                        �lksel
+2023.02.03 00:24:55  40.6613   30.4468       14.0      -.-  1.4  -.-   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.03 00:13:07  35.5682   28.4273       22.8      -.-  2.2  -.-   AKDENIZ                                           �lksel
+2023.02.03 00:12:12  40.3465   27.5397        4.8      -.-  1.7  -.-   ERDEK KORFEZI (MARMARA DENIZI)                    �lksel
+2023.02.02 23:51:45  39.1132   24.1342        7.8      -.-  1.6  -.-   YUNANISTAN                                        �lksel
+2023.02.02 23:41:47  37.8122   29.9940        9.1      -.-  1.2  -.-   BASMAKCI-(BURDUR)                                 �lksel
+2023.02.02 23:40:44  37.7532   30.0367        8.0      -.-  2.0  -.-   CIMBILLI-(BURDUR)                                 �lksel
+2023.02.02 23:29:49  40.6568   30.4505       11.0      -.-  2.0  -.-   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.02 23:27:33  37.0537   30.3318        4.0      -.-  1.6  -.-   ESENYURT-KORKUTELI (ANTALYA)                      �lksel
+2023.02.02 23:25:49  35.5340   25.4595        5.5      -.-  2.4  -.-   GIRIT ADASI (AKDENIZ)                             �lksel
+2023.02.02 23:25:42  40.6672   30.4430       13.9      -.-  3.2  3.0   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.02 23:23:10  39.3692   26.2200       13.1      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.02 23:12:48  40.6665   30.4687        4.0      -.-  1.3  -.-   KAYALARMEMDUHIYE-ERENLER (SAKARYA)                �lksel
+2023.02.02 23:08:40  40.6620   30.4383       15.7      -.-  3.3  3.0   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.02 22:10:37  40.6585   30.4383       15.1      -.-  1.5  -.-   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.02 20:51:20  38.9803   27.8732        9.5      -.-  1.4  -.-   KARABORKLU-AKHISAR (MANISA)                       �lksel
+2023.02.02 20:44:29  37.7055   22.7013       19.4      -.-  2.6  -.-   YUNANISTAN                                        �lksel
+2023.02.02 20:28:10  34.4575   23.8300       14.2      -.-  3.3  3.3   GIRIT ADASI ACIKLARI (AKDENIZ)                    �lksel
+2023.02.02 19:03:54  38.3875   30.4533        3.5      -.-  2.5  -.-   YIPRAK-DINAR (AFYONKARAHISAR)                     �lksel
+2023.02.02 18:22:31  39.6423   39.8373        2.3      -.-  1.8  -.-   PINARLIKAYA-UZUMLU (ERZINCAN)                     �lksel
+2023.02.02 16:20:50  37.6592   30.6760        8.0      -.-  2.0  -.-   CAMLIDERE-AGLASUN (BURDUR)                        �lksel
+2023.02.02 16:02:24  38.0657   42.5312       11.9      -.-  2.6  -.-   BOLUKLU-HIZAN (BITLIS)                            �lksel
+2023.02.02 15:26:42  39.1195   27.4627        0.0      -.-  1.4  -.-   HAMZAHOCALI-KINIK (IZMIR)                         �lksel
+2023.02.02 15:02:30  37.7492   36.2552       14.6      -.-  1.4  -.-   CIGSAR-ANDIRIN (KAHRAMANMARAS)                    �lksel
+2023.02.02 13:58:10  37.7473   30.6575        6.4      -.-  1.4  -.-   SAVKOY-(ISPARTA)                                  �lksel
+2023.02.02 13:26:54  36.8885   27.7740        7.3      -.-  2.1  -.-   GOKOVA KORFEZI (AKDENIZ)                          �lksel
+2023.02.02 13:21:47  39.4230   43.3690       27.6      -.-  2.2  -.-   YANKAYA-TASLICAY (AGRI)                           �lksel
+2023.02.02 13:12:16  40.7738   30.5847       67.9      -.-  1.4  -.-   TURKORMANKOY-AKYAZI (SAKARYA)                     �lksel
+2023.02.02 12:36:53  38.8458   44.4238       10.8      -.-  2.8  -.-   TURKIYE-IRAN SINIR BOLGESI                        �lksel
+2023.02.02 11:03:55  36.8488   28.0430       70.8      -.-  2.2  -.-   GOKOVA KORFEZI (AKDENIZ)                          �lksel
+2023.02.02 10:54:43  36.5113   39.7427       11.9      -.-  2.8  -.-   SURIYE                                            �lksel
+2023.02.02 10:52:42  35.7488   28.6475       17.7      -.-  2.2  -.-   AKDENIZ                                           �lksel
+2023.02.02 10:12:41  40.3733   33.0752       11.1      -.-  2.0  -.-   OKCULAR-CUBUK (ANKARA)                            �lksel
+2023.02.02 09:51:25  39.0030   27.5890        3.7      -.-  1.3  -.-   SULEYMANKOY-AKHISAR (MANISA)                      �lksel
+2023.02.02 09:35:45  39.1692   44.5208        2.6      -.-  1.9  -.-   TURKIYE-IRAN SINIR BOLGESI                        �lksel
+2023.02.02 09:01:48  37.8490   45.4523       10.5      -.-  3.3  -.-   IRAN                                              �lksel
+2023.02.02 08:25:36  38.3365   27.1998        3.6      -.-  2.3  -.-   ZAFER-BUCA (IZMIR)                                �lksel
+2023.02.02 07:53:12  38.2160   39.1160        5.0      -.-  1.5  -.-   KARAKAYA-CUNGUS (DIYARBAKIR)                      �lksel
+2023.02.02 07:37:25  39.0355   28.6047        5.6      -.-  1.5  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.02 07:34:17  39.1488   28.6798       23.7      -.-  0.9  -.-   YENIKOY-SIMAV (KUTAHYA)                           �lksel
+2023.02.02 06:55:15  40.6652   30.4328        7.4      -.-  2.1  -.-   DEGIRMENDERE-ERENLER (SAKARYA)                    �lksel
+2023.02.02 06:52:54  39.3790   26.2672       11.2      -.-  1.5  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.02 06:28:34  37.7000   30.2862       15.9      -.-  1.7  -.-   BURDUR                                            �lksel
+2023.02.02 06:12:29  38.3518   39.3723        5.0      -.-  1.4  -.-   UCLERCE-SIVRICE (ELAZIG)                          �lksel
+2023.02.02 06:09:12  39.0500   28.6222        5.3      -.-  2.5  -.-   ORUCULER-DEMIRCI (MANISA)                         �lksel
+2023.02.02 05:55:50  40.8003   30.9800        5.1      -.-  1.1  -.-   YAZLIK-GOLYAKA (DUZCE)                            �lksel
+2023.02.02 05:51:13  39.0380   28.6183        9.1      -.-  1.9  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.02 05:43:06  39.0357   28.5840        5.0      -.-  3.1  3.0   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.02 05:40:09  36.5150   27.6807        5.7      -.-  1.6  -.-   AKDENIZ                                           �lksel
+2023.02.02 05:36:41  38.5147   45.0623        8.1      -.-  1.9  -.-   IRAN                                              �lksel
+2023.02.02 05:21:32  39.3095   33.4752        7.8      -.-  1.6  -.-   IKIZLER-KAMAN (KIRSEHIR)                          �lksel
+2023.02.02 05:06:57  38.1553   39.3580        1.4      -.-  1.0  -.-   KUYU-CERMIK (DIYARBAKIR)                          �lksel
+2023.02.02 04:49:34  40.4273   28.0235       11.8      -.-  2.0  -.-   KARSIYAKA-ERDEK (BALIKESIR)                       �lksel
+2023.02.02 04:35:42  38.3678   28.0083       12.0      -.-  1.4  -.-   ARTICAK-ODEMIS (IZMIR)                            �lksel
+2023.02.02 04:24:50  39.3580   26.2398       17.3      -.-  1.1  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.02 04:06:57  39.3682   26.2570       15.0      -.-  1.7  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.02 04:06:25  35.3672   26.8015        3.0      -.-  2.4  -.-   GIRIT ADASI (AKDENIZ)                             �lksel
+2023.02.02 03:59:29  39.0255   28.6292       17.1      -.-  1.6  -.-   IMRENLER-DEMIRCI (MANISA)                         �lksel
+2023.02.02 03:48:51  39.0050   28.6833       10.8      -.-  0.8  -.-   YIGITLER-DEMIRCI (MANISA)                         �lksel
+2023.02.02 03:46:05  39.0217   28.6405       10.1      -.-  1.3  -.-   IMRENLER-DEMIRCI (MANISA)                         �lksel
+2023.02.02 03:43:12  39.0042   28.6003       16.3      -.-  1.3  -.-   IMRENLER-DEMIRCI (MANISA)                         �lksel
+2023.02.02 03:17:57  35.6932   25.4863        9.5      -.-  2.6  -.-   GIRIT ADASI (AKDENIZ)                             �lksel
+2023.02.02 03:11:21  37.1345   28.3150       24.8      -.-  1.2  -.-   YENICE-(MUGLA)                                    �lksel
+2023.02.02 03:10:28  36.8147   29.0042       12.9      -.-  1.4  -.-   KARACAOREN-FETHIYE (MUGLA)                        �lksel
+2023.02.02 03:10:18  36.5040   23.3902        5.0      -.-  2.7  -.-   YUNANISTAN                                        �lksel
+2023.02.02 02:25:45  39.3832   26.2333       11.9      -.-  1.4  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.02 02:07:53  36.9310   27.9512        3.9      -.-  1.3  -.-   GOKOVA KORFEZI (AKDENIZ)                          �lksel
+2023.02.02 01:09:02  39.0443   28.6075        8.7      -.-  0.9  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.02 00:34:40  39.0203   28.6092       16.5      -.-  1.8  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.02 00:29:32  39.0470   28.6140        5.5      -.-  2.3  -.-   YESILOBA-DEMIRCI (MANISA)                         �lksel
+2023.02.01 22:52:07  40.7873   31.0647        8.9      -.-  1.8  -.-   KUSACMASI-(DUZCE)                                 �lksel
+2023.02.01 22:15:39  38.0575   30.0790        6.7      -.-  2.7  -.-   AKTOPRAK-DINAR (AFYONKARAHISAR)                   �lksel
+2023.02.01 21:28:56  38.0667   30.0800        3.6      -.-  3.5  3.6   AVDAN-DINAR (AFYONKARAHISAR)                      �lksel
+2023.02.01 21:02:50  39.3847   26.2647        6.2      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.01 20:45:59  38.6177   44.8428        1.7      -.-  2.8  2.8   TURKIYE-IRAN SINIR BOLGESI                        �lksel
+2023.02.01 20:38:06  39.3737   26.2367       11.8      -.-  2.2  -.-   MIDILLI ADASI (EGE DENIZI)                        �lksel
+2023.02.01 18:24:03  40.8713   31.6423        5.0      -.-  2.2  -.-   CUKUROREN-(BOLU)                                  �lksel
+2023.02.01 17:44:41  38.0550   30.0747        5.7      -.-  2.9  -.-   AKTOPRAK-DINAR (AFYONKARAHISAR)                   �lksel
+2023.02.01 16:24:39  40.8533   31.6520        5.5      -.-  2.1  -.-   CUKUROREN-(BOLU)                                  �lksel
+2023.02.01 16:23:31  40.8955   29.7860        0.0      -.-  1.6  -.-   KARAYAKUPLU-KORFEZ (KOCAELI)                      �lksel
+2023.02.01 16:20:26  37.1472   27.2450       22.1      -.-  1.5  -.-   GULLUK KORFEZI (EGE DENIZI)                       �lksel
+2023.02.01 16:06:50  38.0457   30.0877        4.2      -.-  3.2  3.3   AKTOPRAK-DINAR (AFYONKARAHISAR)                   �lksel
+2023.02.01 15:45:18  36.3493   33.2062        4.6      -.-  1.2  -.-   GOKTURK-GULNAR (MERSIN)                           �lksel
+2023.02.01 15:28:21  38.6070   45.1242        5.0      -.-  3.0  -.-   IRAN                                              �lksel
+2023.02.01 15:14:18  37.2020   36.1083        2.5      -.-  1.6  -.-   GOKCEDAM-(OSMANIYE)                               �lksel
+2023.02.01 14:07:53  39.1420   27.5740        0.0      -.-  1.9  -.-   DARKALE-SOMA (MANISA)                             �lksel
+2023.02.01 13:53:22  40.1225   22.8620       22.7      -.-  3.9  -.-   YUNANISTAN                                        �lksel
+2023.02.01 13:25:33  36.6022   36.3763        3.6      -.-  1.6  -.-   ALIBEYCAGILI-KIRIKHAN (HATAY)                     �lksel
+2023.02.01 13:14:54  39.3985   31.2158       23.7      -.-  1.0  -.-   KORHASAN-CIFTELER (ESKISEHIR)                     �lksel
+2023.02.01 12:54:54  41.1662   28.7595        0.0      -.-  1.3  -.-   ARNAVUTKOY (ISTANBUL)                             �lksel
+2023.02.01 12:32:04  38.5053   44.8052        5.0      -.-  2.6  -.-   TURKIYE-IRAN SINIR BOLGESI                        �lksel
+2023.02.01 12:22:21  37.7763   29.4050        3.2      -.-  1.2  -.-   YUKARIDAGDERE-HONAZ (DENIZLI)                     �lksel
+2023.02.01 12:10:15  38.1857   30.8765        1.6      -.-  1.9  -.-   AKDAG-GELENDOST (ISPARTA)                         �lksel
+2023.02.01 12:00:08  39.7638   29.9565        0.0      -.-  1.5  -.-   YENIDODURGA-BOZUYUK (BILECIK)                     �lksel
+2023.02.01 11:57:47  40.2148   31.7800        4.4      -.-  2.4  -.-   KOZAGAC-BEYPAZARI (ANKARA)                        �lksel
+2023.02.01 11:50:31  37.4790   40.4163        8.0      -.-  1.3  -.-   EKINCILER-MAZIDAGI (MARDIN)                       �lksel
+
