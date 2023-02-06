@@ -85,7 +85,12 @@ dbi.register(({ ChatInput, Event, ChatInputOptions }) => {
           for (const channelId of Object.keys(channels)) {
             const channel = client.channels.cache.get(channelId);
             if (channel) {
-              await channel.send(message).catch(() => { })
+              const contents = [...(message.match(/[^~]{0,1999}(\n|$)/g) ?? [])];
+              for (const content of contents) {
+                await channel.send({
+                  content,
+                }).catch(() => { })
+              }
             }
           }
           postedDeprems.push(...newDeprems.map((deprem) => deprem.id));
